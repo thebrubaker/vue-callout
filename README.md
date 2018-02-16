@@ -17,7 +17,7 @@ this.$callout({
 })
 ```
 
-![Example Callouts](./example-1.png?raw=true "Example Callouts")
+![Example Callouts](./docs/example-1.png?raw=true "Example Callouts")
 
 ## Quickstart
 
